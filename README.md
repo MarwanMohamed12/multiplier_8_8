@@ -16,3 +16,11 @@ following equations illustrate the mathematical principles supporting this imple
 
 ![photo_5969642613592146424_y](https://github.com/MarwanMohamed12/multiplier_8_8/assets/138940689/c595f8f5-65e0-4c6f-982b-2103535d4cc2)
 
+here is test bench 
+
+![mult_tb](https://github.com/MarwanMohamed12/multiplier_8_8/assets/138940689/130fd959-db22-4f69-91b3-5f61f93a3fda)
+
+
+schematic
+![multiplier_sch](https://github.com/MarwanMohamed12/multiplier_8_8/assets/138940689/86f7a8ae-29e0-46da-a639-cdf18b7cdbfc)
+
